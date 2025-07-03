@@ -4,6 +4,7 @@
 
 I seldomly write blog posts:
 
+- [Rossignol Vezor vs Hoka Speedgoat 6 (2025).](https://github.com/fungiboletus/vezor_vs_speedgoat/blob/main/README.md)
 - [Every Bit Counts, a Journey Into Prometheus Binary Data (2024).](https://fungiboletus.github.io/journey-prometheus-binary-data/)
 - [KubeMQ, the Kubernetes native message queue broker that refuses to start on Kubernetes (2023).](https://fungiboletus.github.io/kubemq-blogpost/)
 - [A post about FLoC tracking (2021).](https://fungiboletus.github.io/floc-tracking/)
