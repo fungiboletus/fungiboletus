@@ -2,7 +2,7 @@
 
 ## Blog
 
-I seldomly write blog posts:
+I seldom write blog posts:
 
 - [Replacing Teleport on a Budget (2025)](https://fungiboletus.github.io/replacing_teleport/)
 - [VJ Ultra 3 Review (2025)](https://github.com/fungiboletus/vj_ultra_3)
@@ -12,7 +12,7 @@ I seldomly write blog posts:
 - [A post about FLoC tracking (2021).](https://fungiboletus.github.io/floc-tracking/)
 - [An attempt at estimating the actual top speed of the SSC Tuatara fastest production car record, using youtube-dl and audacity (2020).](https://fungiboletus.github.io/ssc-rpm/)
 
-I used to have more but those should stay burried deep in the Wayback Machine. And they are written in French.
+I used to have more, but those should stay buried deep in the Wayback Machine. And they are written in French.
 
 Here is the masterpiece though, my programming language inspired by raving rabbids:
 
