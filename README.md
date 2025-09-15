@@ -4,6 +4,8 @@
 
 I seldomly write blog posts:
 
+- [Replacing Teleport on a Budget (2025)](https://fungiboletus.github.io/replacing_teleport/)
+- [VJ Ultra 3 Review (2025)](https://github.com/fungiboletus/vj_ultra_3)
 - [Rossignol Vezor vs Hoka Speedgoat 6 (2025).](https://github.com/fungiboletus/vezor_vs_speedgoat/blob/main/README.md)
 - [Every Bit Counts, a Journey Into Prometheus Binary Data (2024).](https://fungiboletus.github.io/journey-prometheus-binary-data/)
 - [KubeMQ, the Kubernetes native message queue broker that refuses to start on Kubernetes (2023).](https://fungiboletus.github.io/kubemq-blogpost/)
