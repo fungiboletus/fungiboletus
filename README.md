@@ -4,6 +4,7 @@
 
 I seldom write blog posts:
 
+- [Generating Colour Palettes Randomly (2026)](https://fungiboletus.github.io/MicroColourGPT3000/generating-colour-palettes-randomly.html)
 - [Please Stop Using MongoDB (2025)](https://github.com/fungiboletus/please-stop-using-mongodb/blob/main/README.md)
 - [Replacing Teleport on a Budget (2025)](https://fungiboletus.github.io/replacing_teleport/)
 - [VJ Ultra 3 Review (2025)](https://github.com/fungiboletus/vj_ultra_3)
