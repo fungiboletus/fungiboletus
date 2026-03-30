@@ -4,7 +4,7 @@
 
 I seldom write blog posts:
 
-- ["I feel a strong dislike for chess" (2026)](https://fungiboletus.github.io/chess-potato-ai-3000/article/)
+- ["I feel a strong dislike for chess" — Said my Homemade Chess Engine (2026)](https://fungiboletus.github.io/chess-potato-ai-3000/article/)
 - [Generating Colour Palettes Randomly (2026)](https://fungiboletus.github.io/MicroColourGPT3000/generating-colour-palettes-randomly.html)
 - [Please Stop Using MongoDB (2025)](https://github.com/fungiboletus/please-stop-using-mongodb/blob/main/README.md)
 - [Replacing Teleport on a Budget (2025)](https://fungiboletus.github.io/replacing_teleport/)
