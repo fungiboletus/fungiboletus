@@ -4,6 +4,7 @@
 
 I seldom write blog posts:
 
+- ["I feel a strong dislike for chess" (2026)](https://fungiboletus.github.io/chess-potato-ai-3000/article/)
 - [Generating Colour Palettes Randomly (2026)](https://fungiboletus.github.io/MicroColourGPT3000/generating-colour-palettes-randomly.html)
 - [Please Stop Using MongoDB (2025)](https://github.com/fungiboletus/please-stop-using-mongodb/blob/main/README.md)
 - [Replacing Teleport on a Budget (2025)](https://fungiboletus.github.io/replacing_teleport/)
@@ -36,6 +37,8 @@ For sure.
 - [Proto2TypeScript, Protobuf to TypeScript before TypeScript was popular (2014)](https://github.com/SINTEF-9012/Proto2TypeScript)
 - [Leaflet.MapPaint, bitmap map painting (2014).](https://github.com/SINTEF-9012/Leaflet.MapPaint)
 - [UnrealMosquitto, A MQTT client with blueprint support for Unreal Engine 4, based on Mosquitto (2018).](https://github.com/SINTEF-9012/UnrealMosquitto)
+- [MicroColourGPT3000, another colour palette generator (2026).](https://fungiboletus.github.io/MicroColourGPT3000/)
+  [Chess Potato AI 3000, a novel chess AI that tries to play like human beginners (2026).](https://fungiboletus.github.io/chess-potato-ai-3000/)
 
 ## Some Open-Source Contributions I'm also Proud Of
 
