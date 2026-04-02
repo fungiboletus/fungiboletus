@@ -30,6 +30,7 @@ For sure.
 - [A Firefox gearbox stick extension (2014).](https://github.com/fungiboletus/FirefoxGearStick)
 - [kubernetes-env-to-secrets: convert dotenv to k8s secrets (2018).](https://github.com/TelluIoT/kubernetes-env-to-secrets)
 - [A propaganda generator for Reddit (2025).](https://fungiboletus.github.io/generateur-de-propagande-reddit/)
+- [Asocial Network (2026).](https://fungiboletus.github.io/asocial-network/)
 
 ## Open-Source Projects I'm Somewhat Proud Of
 
