@@ -26,20 +26,21 @@ Here is the masterpiece though, my programming language inspired by raving rabbi
 
 For sure.
 
-- [Midi, when to eat? (2013)](https://github.com/fungiboletus/midi)
-- [A Firefox gearbox stick extension (2014).](https://github.com/fungiboletus/FirefoxGearStick)
-- [kubernetes-env-to-secrets: convert dotenv to k8s secrets (2018).](https://github.com/TelluIoT/kubernetes-env-to-secrets)
-- [A propaganda generator for Reddit (2025).](https://fungiboletus.github.io/generateur-de-propagande-reddit/)
+- [Eschaton: wait for the End (2026)](https://github.com/fungiboletus/eschaton)
 - [Asocial Network (2026).](https://fungiboletus.github.io/asocial-network/)
+- [A propaganda generator for Reddit (2025).](https://fungiboletus.github.io/generateur-de-propagande-reddit/)
+- [kubernetes-env-to-secrets: convert dotenv to k8s secrets (2018).](https://github.com/TelluIoT/kubernetes-env-to-secrets)
+- [A Firefox gearbox stick extension (2014).](https://github.com/fungiboletus/FirefoxGearStick)
+- [Midi, when to eat? (2013)](https://github.com/fungiboletus/midi)
 
 ## Open-Source Projects I'm Somewhat Proud Of
 
-- [PruneCluster, Real-time Marker Clustering (2014).](https://sintef-9012.github.io/PruneCluster/)
-- [Proto2TypeScript, Protobuf to TypeScript before TypeScript was popular (2014)](https://github.com/SINTEF-9012/Proto2TypeScript)
-- [Leaflet.MapPaint, bitmap map painting (2014).](https://github.com/SINTEF-9012/Leaflet.MapPaint)
-- [UnrealMosquitto, A MQTT client with blueprint support for Unreal Engine 4, based on Mosquitto (2018).](https://github.com/SINTEF-9012/UnrealMosquitto)
-- [MicroColourGPT3000, another colour palette generator (2026).](https://fungiboletus.github.io/MicroColourGPT3000/)
   [Chess Potato AI 3000, a novel chess AI that tries to play like human beginners (2026).](https://fungiboletus.github.io/chess-potato-ai-3000/)
+- [MicroColourGPT3000, another colour palette generator (2026).](https://fungiboletus.github.io/MicroColourGPT3000/)
+- [UnrealMosquitto, A MQTT client with blueprint support for Unreal Engine 4, based on Mosquitto (2018).](https://github.com/SINTEF-9012/UnrealMosquitto)
+- [Leaflet.MapPaint, bitmap map painting (2014).](https://github.com/SINTEF-9012/Leaflet.MapPaint)
+- [Proto2TypeScript, Protobuf to TypeScript before TypeScript was popular (2014)](https://github.com/SINTEF-9012/Proto2TypeScript)
+- [PruneCluster, Real-time Marker Clustering (2014).](https://sintef-9012.github.io/PruneCluster/)
 
 ## Some Open-Source Contributions I'm also Proud Of
 
@@ -58,6 +59,7 @@ I enjoy solving some problems of the [Advent of Code](https://adventofcode.com/)
 - [2022 Rust](https://github.com/fungiboletus/advent_of_code_2022_rust)
 - [2023 Rust](https://github.com/fungiboletus/advent_of_code_2023_rust)
 - [2024 Rust](https://github.com/fungiboletus/advent_of_code_2024_rust)
+- [2025 Rust](https://github.com/fungiboletus/advent_of_code_2025_rust)
 
 ## Research Papers
 
