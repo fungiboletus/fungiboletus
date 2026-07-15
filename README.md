@@ -26,7 +26,7 @@ Here is the masterpiece though, my programming language inspired by raving rabbi
 
 For sure.
 
-- [Hallucination-OS (2026)(https://github.com/fungiboletus/hallucination-os)
+- [Hallucination-OS (2026)](https://github.com/fungiboletus/hallucination-os)
 - [Eschaton: wait for the End (2026)](https://github.com/fungiboletus/eschaton)
 - [Asocial Network (2026).](https://fungiboletus.github.io/asocial-network/)
 - [A propaganda generator for Reddit (2025).](https://fungiboletus.github.io/generateur-de-propagande-reddit/)
