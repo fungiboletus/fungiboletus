@@ -26,6 +26,7 @@ Here is the masterpiece though, my programming language inspired by raving rabbi
 
 For sure.
 
+- [Hallucination-OS (2026)(https://github.com/fungiboletus/hallucination-os)
 - [Eschaton: wait for the End (2026)](https://github.com/fungiboletus/eschaton)
 - [Asocial Network (2026).](https://fungiboletus.github.io/asocial-network/)
 - [A propaganda generator for Reddit (2025).](https://fungiboletus.github.io/generateur-de-propagande-reddit/)
@@ -35,7 +36,7 @@ For sure.
 
 ## Open-Source Projects I'm Somewhat Proud Of
 
-  [Chess Potato AI 3000, a novel chess AI that tries to play like human beginners (2026).](https://fungiboletus.github.io/chess-potato-ai-3000/)
+- [Chess Potato AI 3000, a novel chess AI that tries to play like human beginners (2026).](https://fungiboletus.github.io/chess-potato-ai-3000/)
 - [MicroColourGPT3000, another colour palette generator (2026).](https://fungiboletus.github.io/MicroColourGPT3000/)
 - [UnrealMosquitto, A MQTT client with blueprint support for Unreal Engine 4, based on Mosquitto (2018).](https://github.com/SINTEF-9012/UnrealMosquitto)
 - [Leaflet.MapPaint, bitmap map painting (2014).](https://github.com/SINTEF-9012/Leaflet.MapPaint)
