@@ -1,4 +1,4 @@
-### Hi there 👋
+I recently got my first name with the local TLD: [antoine.no](https://antoine.no)
 
 ## Blog
 
@@ -36,6 +36,7 @@ For sure.
 
 ## Open-Source Projects I'm Somewhat Proud Of
 
+- [Moai, a Minimoog inspired synth for the Teenage Engineering OP-1 (2026).](https://github.com/fungiboletus/op-moai)
 - [Chess Potato AI 3000, a novel chess AI that tries to play like human beginners (2026).](https://fungiboletus.github.io/chess-potato-ai-3000/)
 - [MicroColourGPT3000, another colour palette generator (2026).](https://fungiboletus.github.io/MicroColourGPT3000/)
 - [UnrealMosquitto, A MQTT client with blueprint support for Unreal Engine 4, based on Mosquitto (2018).](https://github.com/SINTEF-9012/UnrealMosquitto)
