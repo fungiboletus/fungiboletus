@@ -1,4 +1,4 @@
-I recently got my first name with the local TLD: [antoine.no](https://antoine.no)
+I recently got my first name with the Norwegian TLD: [antoine.no](https://antoine.no)
 
 ## Blog
 
