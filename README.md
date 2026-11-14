@@ -22,6 +22,17 @@ Here is the masterpiece though, my programming language inspired by raving rabbi
 - [GWAAAAAAAH (French, 2009, Wayback Machine).](https://web.archive.org/web/20121101153719/http://www.blogjaune.fr/GWAAAAAAAH)
 - [GWAAAAAAAH (English, 2013, Wayback Machine).](https://web.archive.org/web/20140119044635/http://blogjaune.fr:80/gwaaaaaaah/)
 
+
+## Open-Source Projects I'm Somewhat Proud Of
+
+- [Moai, a Minimoog inspired synth for the Teenage Engineering OP-1 (2026).](https://github.com/fungiboletus/op-moai)
+- [Chess Potato AI 3000, a novel chess AI that tries to play like human beginners (2026).](https://fungiboletus.github.io/chess-potato-ai-3000/)
+- [MicroColourGPT3000, another colour palette generator (2026).](https://fungiboletus.github.io/MicroColourGPT3000/)
+- [UnrealMosquitto, A MQTT client with blueprint support for Unreal Engine 4, based on Mosquitto (2018).](https://github.com/SINTEF-9012/UnrealMosquitto)
+- [Leaflet.MapPaint, bitmap map painting (2014).](https://github.com/SINTEF-9012/Leaflet.MapPaint)
+- [Proto2TypeScript, Protobuf to TypeScript before TypeScript was popular (2014)](https://github.com/SINTEF-9012/Proto2TypeScript)
+- [PruneCluster, Real-time Marker Clustering (2014).](https://sintef-9012.github.io/PruneCluster/)
+
 ## Open-Source Projects with the Highest World Impact
 
 For sure.
@@ -33,16 +44,6 @@ For sure.
 - [kubernetes-env-to-secrets: convert dotenv to k8s secrets (2018).](https://github.com/TelluIoT/kubernetes-env-to-secrets)
 - [A Firefox gearbox stick extension (2014).](https://github.com/fungiboletus/FirefoxGearStick)
 - [Midi, when to eat? (2013)](https://github.com/fungiboletus/midi)
-
-## Open-Source Projects I'm Somewhat Proud Of
-
-- [Moai, a Minimoog inspired synth for the Teenage Engineering OP-1 (2026).](https://github.com/fungiboletus/op-moai)
-- [Chess Potato AI 3000, a novel chess AI that tries to play like human beginners (2026).](https://fungiboletus.github.io/chess-potato-ai-3000/)
-- [MicroColourGPT3000, another colour palette generator (2026).](https://fungiboletus.github.io/MicroColourGPT3000/)
-- [UnrealMosquitto, A MQTT client with blueprint support for Unreal Engine 4, based on Mosquitto (2018).](https://github.com/SINTEF-9012/UnrealMosquitto)
-- [Leaflet.MapPaint, bitmap map painting (2014).](https://github.com/SINTEF-9012/Leaflet.MapPaint)
-- [Proto2TypeScript, Protobuf to TypeScript before TypeScript was popular (2014)](https://github.com/SINTEF-9012/Proto2TypeScript)
-- [PruneCluster, Real-time Marker Clustering (2014).](https://sintef-9012.github.io/PruneCluster/)
 
 ## Some Open-Source Contributions I'm also Proud Of
 
